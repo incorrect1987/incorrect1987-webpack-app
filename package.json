@@ -1,0 +1,8 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/incorrect1987/webpack-app.git",
+  "author": "incorrect <alexeev.andrey1987@gmail.com>",
+  "license": "MIT"
+}
