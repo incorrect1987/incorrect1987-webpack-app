@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/incorrect1987/webpack-app.git",
   "author": "incorrect <alexeev.andrey1987@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "start": "webpack",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.37.0"
+  }
 }
